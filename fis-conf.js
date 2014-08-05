@@ -2,7 +2,7 @@ fis.config.merge({
     roadmap : {
         path: [{
         	reg:'**',
-        	url:'blog$&'
+        	url:'/blog$&'
         }]
     }
 });
